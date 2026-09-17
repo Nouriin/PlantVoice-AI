@@ -1,0 +1,6 @@
+{
+  "name": "PlantVoice AI — Crop Health & Sensor Assistant",
+  "description": "Intelligent crop stress detection, leaf disease diagnosis, sensor simulation, and multi-lingual voice guidance with universal crop search.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
